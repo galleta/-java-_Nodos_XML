@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <CD caja="01" seccion="05">
+        <TITULO>Back in Black</TITULO>
+        <ARTISTA>AC/DC</ARTISTA>
+        <ORIGEN>Australia</ORIGEN>
+        <PRECIO moneda="euro">5.90</PRECIO>
+        <ANIO>1980</ANIO>
+    </CD>
+    <CD caja="06" seccion="02">
+        <TITULO>Pa pito el Mío</TITULO>
+        <ARTISTA>Mojinos Escozíos</ARTISTA>
+        <ORIGEN>España</ORIGEN>
+        <PRECIO moneda="euro">9.90</PRECIO>
+        <ANIO>2007</ANIO>
+    </CD>
+</CATALOGO>

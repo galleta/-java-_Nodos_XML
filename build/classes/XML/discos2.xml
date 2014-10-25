@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <CD>
+        <TITULO>Back in Black</TITULO>
+        <ARTISTA>AC/DC</ARTISTA>
+        <ORIGEN>Australia</ORIGEN>
+        <PRECIO>
+			<MONEDA>Euro</MONEDA>
+			<CANTIDAD>5.90</CANTIDAD>
+		</PRECIO>
+        <ANIO>1980</ANIO>
+    </CD>
+</CATALOGO>
